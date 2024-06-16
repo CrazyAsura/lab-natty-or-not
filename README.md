@@ -1,10 +1,13 @@
 # Título do Projeto Extremamente Aesthetic ;)
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Projeto voltado para a Economia
 
 ## 🤖 Tecnologias Utilizadas
 Liste as IAs Generativas e outras ferramentas usadas
+ChatGPT
+Perplexity
+LeonardoIA
 
 ## 🧐 Processo de Criação
 Descreva como você criou o conteúdo
